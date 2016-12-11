@@ -11,3 +11,13 @@ This is a package of some commandline utilities relating to inotify.
 The general purpose of this package is to allow inotify's features to be used
 from within shell scripts.  Read the man pages for further details.
 
+============================================
+
+项目文件建立“inotifywait”采用Android NDK。
+“inotify-tools-v3.14。焦油。广州”是由Rohan McGovern原来的源码包，Radu Voicilas。
+---------------------------------------------------------------------
+inotify工具
+=============
+这是一包关于inotify一些命令行工具。
+这个包的目的是让文件的功能有
+从内壳脚本。阅读男人的网页，为进一步的细节。
